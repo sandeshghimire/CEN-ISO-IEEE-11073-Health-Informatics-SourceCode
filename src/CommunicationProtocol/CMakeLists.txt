@@ -1,0 +1,7 @@
+add_subdirectory(Bluetooth)
+add_subdirectory(IrDA)
+add_subdirectory(NFC)
+add_subdirectory(Serial)
+add_subdirectory(USB)
+add_subdirectory(WiFi)
+add_subdirectory(ZigBee)

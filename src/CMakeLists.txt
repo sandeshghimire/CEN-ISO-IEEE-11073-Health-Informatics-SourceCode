@@ -1,2 +1,5 @@
 add_subdirectory(Agent)
 add_subdirectory(Manager)
+add_subdirectory(CommunicationProtocol)
+add_subdirectory(DeviceSpecilizations)
+add_subdirectory(OptimizedExchnageProtocol)
