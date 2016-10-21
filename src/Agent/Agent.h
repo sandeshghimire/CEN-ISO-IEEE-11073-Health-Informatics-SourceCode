@@ -1,0 +1,19 @@
+//
+// Created by sande on 10/20/2016.
+//
+
+#ifndef CEN_ISO_IEEE_11073_HEALTH_INFORMATICS_SOURCECODE_AGENT_H
+#define CEN_ISO_IEEE_11073_HEALTH_INFORMATICS_SOURCECODE_AGENT_H
+
+
+
+
+class Agent {
+public:
+    Agent();
+
+    virtual ~Agent();
+};
+
+
+#endif //CEN_ISO_IEEE_11073_HEALTH_INFORMATICS_SOURCECODE_AGENT_H

@@ -1,1 +1,1 @@
-add_executable(Agent main.cpp)
+add_executable(Agent main.cpp Agent.cpp Agent.h)
